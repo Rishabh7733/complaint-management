@@ -1,5 +1,3 @@
-#Complaint Management System Project in Python
+#Complaint Management System
 
-
-
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****
+Technology : Python(GUI Tkinter Library)
